@@ -12,10 +12,10 @@ W Allegro korzystamy z dwóch technologii API - SOAP i REST.
 * Zasoby, które udostępniliśmy w Allegro WebAPI opisaliśmy w [dokumentacji](https://allegro.pl/webapi/documentation.php). 
 * Aby, się wam łatwiej korzystało z WebAPI przygotowaliśmy serię [poradników](https://allegro.pl/webapi/tutorials.php).
 
-**[Allegro REST API](https://developer.allegroapi.io/)**
+**[Allegro REST API](https://developer.allegro.pl/)**
 
-* Zasoby, które udostępniliśmy w Allegro REST API opisaliśmy w [dokumentacji](https://developer.allegroapi.io/documentation/).
-* Poradniki i przykłady wywołań w REST API znajdziecie w [aktualnościach](https://developer.allegroapi.io/news/). 
+* Zasoby, które udostępniliśmy w Allegro REST API opisaliśmy w [dokumentacji](https://developer.allegro.pl/documentation/).
+* Poradniki i przykłady wywołań w REST API znajdziecie w [aktualnościach](https://developer.allegro.pl/news/). 
 
 # Jak zadawać pytania i zgłaszać problemy w GitHubie? 
 Wejdź w zakładkę **[Issues](https://github.com/allegro/allegro-api/issues)** i załóż nowe zgłoszenie. Pamiętaj, aby w zgłoszeniu podać jak najdokładniejsze informacje - pomoże nam to w szybszym znalezieniu rozwiązania.
