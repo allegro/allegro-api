@@ -9,7 +9,8 @@ exemptLabels:
 staleLabel: brak odpowiedzi
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: >
-  W tym wątku nie pojawiła się żadna nowa odpowiedź w ciągu 30 dni. Dlatego automatycznie oznaczamy go jako przeterminowany. Jeśli w ciągu 7 dni nie pojawi się żadna odpowiedź, zamkniemy ten wątek.
+  W tym wątku nie pojawiła się żadna nowa odpowiedź w ciągu 30 dni. Dlatego automatycznie oznaczamy go jako przeterminowany. 
+  Jeśli w ciągu 7 dni nie pojawi się żadna odpowiedź, zamkniemy ten wątek.
   Dziękujemy za zaangażowanie w dyskusję.
 # Comment to post when closing a stale issue. Set to `false` to disable
 closeComment: true
