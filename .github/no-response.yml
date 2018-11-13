@@ -2,8 +2,8 @@
 
 # Number of days of inactivity before an Issue is closed for lack of response
 daysUntilClose: 7
-# Label czekamy na informacje
-responseRequiredLabel: more-information-needed
+# Label requiring a response
+responseRequiredLabel: czekamy_na_informacje
 # Comment to post when closing an Issue for lack of response. Set to `false` to disable
 closeComment: >
   Automatycznie zamknęliśmy wątek, ponieważ nie otrzymaliśmy niezbędnych informacji. 
