@@ -7,4 +7,4 @@ responseRequiredLabel: czekamy_na_dane
 # Comment to post when closing an Issue for lack of response. Set to `false` to disable
 closeComment: >
   Automatycznie zamknęliśmy wątek, ponieważ nie otrzymaliśmy niezbędnych danych. 
-  Jeśli problem nadal występuje, to wznów wątek i  prześlij do nas informacje, o które prosiliśmy.
+  Jeśli problem nadal występuje, to wznów wątek i prześlij do nas informacje, o które prosiliśmy.
