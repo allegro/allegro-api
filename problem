@@ -1,0 +1,2 @@
+problem
+Witam, od piątku 29.marca nie działa wyszukiwanie ofert po opisie aukcj,i na stronie allegro.pl jak i w metodzie GET /offers/listing np. w opisie aukcji mam kilkanaście słów i jedne znajduje innych nie, sprawdziłem na różne sposoby efekt jest ten sam mam wrażenie że jeżeli tekst w opisie jest nagłówkowy to nie widz,i już wcześniej bywały takie problemy ale po kilkunastu godzinach wracało do normy.
