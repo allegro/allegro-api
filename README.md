@@ -1,6 +1,6 @@
 # ![Allegro API](https://raw.githubusercontent.com/allegro/allegro-api/master/allegro-api-logo.png)
 
-*Dzięki projektowi API Allegro na Githubie, możesz:*
+Dzięki projektowi API Allegro na Githubie, możesz:
 
 * dowiedzieć się o zmianach, które wprowadzamy w naszym API.
 
