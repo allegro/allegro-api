@@ -3,11 +3,8 @@
 Dzięki projektowi API Allegro na Githubie, możesz:
 
 * dowiedzieć się o zmianach, które wprowadzamy w naszym API.
-
 * zadać pytanie, które dotyczy tego interfejsu.
-
 * zaproponować sugestię - co możemy dodać lub zmienić w API.
-
 * zgłosić błąd.
 
 # Jak zadawać pytania i zgłaszać problemy w GitHubie? 
