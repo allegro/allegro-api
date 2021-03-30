@@ -11,6 +11,8 @@ Dzięki projektowi API Allegro na Githubie, możesz:
 Wejdź w zakładkę **[Issues](https://github.com/allegro/allegro-api/issues)**, załóż nowe zgłoszenie i skorzystaj z odpowiedniego szablonu. Pamiętaj, aby w zgłoszeniu podać jak najwięcej dokładnych informacji - dzięki temu szybciej uzyskasz pomoc.
 
 
+Jeżeli masz jakieś sugestie, lub chcesz je przejrzeć i zagłosować - skorzystaj z zakładki [**Discussions**](https://github.com/allegro/allegro-api/discussions). 
+
 ### Czym jest API Allegro
 API to usługa sieciowa, która umożliwia wymianę informacji między zasobami Allegro, a oprogramowaniem zewnętrznym. Dzięki niej możesz  zintegrować własne rozwiązania z mechanizmami serwisu. W ramach API Allegro udostępniamy szereg zasobów, które odpowiadają poszczególnym funkcjom serwisu.
 
