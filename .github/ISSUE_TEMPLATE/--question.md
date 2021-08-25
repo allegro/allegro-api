@@ -1,6 +1,6 @@
 ---
 name: "❓ Question"
-about: Zadaj pytanie dotyczące API allegro
+about: Zadaj pytanie dotyczące API allegro / Ask for the ALLEGRO API
 
 ---
 
@@ -13,5 +13,5 @@ about: Zadaj pytanie dotyczące API allegro
 [Jak obsługiwać zamówienia](https://developer.allegro.pl/orders/)
 [Jak zarządzać zestawami i rabatami](https://developer.allegro.pl/offer_bundles/)
 [Jak utworzyć ofertę wielowariantową](https://developer.allegro.pl/multi_variant_offers/)
-[WebAPI](https://allegro.pl/webapi)
+[Jak powiązać ofertę z produktem](https://developer.allegro.pl/product_offers/)
 -->
