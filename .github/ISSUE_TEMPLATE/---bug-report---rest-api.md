@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41B Bug report - REST API"
-about: Zgłoś błąd dotyczący REST API / Report a REST API bug
+about: Zgłoś błąd dotyczący REST API Allegro / Report a REST API Allegro bug
 
 ---
 
