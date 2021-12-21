@@ -1,6 +1,6 @@
 ---
 name: "❓ Question"
-about: Zadaj pytanie dotyczące API allegro / Ask about ALLEGRO API
+about: Zadaj pytanie dotyczące REST API Allegro / Ask about REST API Allegro
 
 ---
 
