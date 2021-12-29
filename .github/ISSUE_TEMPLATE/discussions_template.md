@@ -1,6 +1,6 @@
 ---
 name: "\U0001F4A1 Ideas"
-about: Sugestie dotyczące REST API Allegro
+about: Sugestie dotyczące REST API Allegro / Suggestions for REST API Allegro
 
 ---
 :bulb: **Sugestia**
