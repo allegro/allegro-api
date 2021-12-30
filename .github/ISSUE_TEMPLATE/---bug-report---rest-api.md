@@ -9,7 +9,7 @@ Występuje problem: <!-- wpisz X między kwadratowe nawiasy -->
  - [ ] ze środowiskiem produkcyjnym / with the production environment
  - [ ] ze środowiskiem testowym / with the test environment
  - [ ] z logowaniem lub autoryzacją / with login or authorization
- - [ ] na portalu [https://developer.allegro.pl/](https://developer.allegro.pl/) / at [https://developer.allegro.pl/](https://developer.allegro.pl/en/)
+ - [ ] na portalu https://developer.allegro.pl/ / at https://developer.allegro.pl/en/
  - [ ] inny / other
 
 :beetle: **Opis / Description**
