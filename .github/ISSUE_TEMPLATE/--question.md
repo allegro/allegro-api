@@ -4,7 +4,8 @@ about: Zadaj pytanie dotyczące REST API Allegro / Ask about REST API Allegro
 
 ---
 
-<!-- English ersion below -->
+<!-- English version below -->
+
 <!-- Zanim zadasz pytanie, zapoznaj się z naszymi materiałami:
 
 [REST API](https://developer.allegro.pl/)
