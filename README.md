@@ -21,7 +21,7 @@ W Allegro korzystamy z **[REST API](https://developer.allegro.pl/tutorials/infor
 * Zasoby, które udostępniliśmy w Allegro REST API opisaliśmy w **[dokumentacji](https://developer.allegro.pl/documentation/)**.
 * Poradniki i przykłady wywołań w Allegro REST API znajdziecie w **[aktualnościach](https://developer.allegro.pl/news/)**. 
 
-# Nowości w API Allegro
+## Nowości w API Allegro
 
 Jeżeli chcesz być na bieżąco z nowościami w ramach naszego publicznego API:
 
