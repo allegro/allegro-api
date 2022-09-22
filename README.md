@@ -13,7 +13,7 @@ Wejdź w zakładkę **[Issues](https://github.com/allegro/allegro-api/issues)**,
 
 Jeżeli masz jakieś sugestie, lub chcesz je przejrzeć i zagłosować - skorzystaj z zakładki [**Discussions**](https://github.com/allegro/allegro-api/discussions). 
 
-### Czym jest API Allegro
+## Czym jest API Allegro
 API to usługa sieciowa, która umożliwia wymianę informacji między zasobami Allegro, a oprogramowaniem zewnętrznym. Dzięki niej możesz zintegrować własne rozwiązania z mechanizmami serwisu. W ramach API Allegro udostępniamy szereg zasobów, które odpowiadają poszczególnym funkcjom serwisu.
 
 W Allegro korzystamy z **[REST API](https://developer.allegro.pl/tutorials/informacje-podstawowe-b21569boAI1#rest-api)**.
@@ -45,7 +45,7 @@ Go to the **[Issues](https://github.com/allegro/allegro-api/issues)** tab, creat
 
 If you have any suggestions, or want to review and vote on them - use the [**Discussions**](https://github.com/allegro/allegro-api/discussions) tab.
 
-# What is the Allegro API
+## What is the Allegro API
 
 API is a web service that allows exchanging of information between Allegro resources and external software. It allows you to integrate your own solutions with the mechanisms of the service. As part of the Allegro API, we provide a number of resources that correspond to the service's various functions.
 
@@ -54,7 +54,7 @@ At Allegro, we use the **[REST API](https://developer.allegro.pl/tutorials/basic
 * The resources we have provided in Allegro REST API are described in the **[documentation](https://developer.allegro.pl/documentation)**.
 * You can find tutorials and examples of Allegro REST API requests on **[our devportal](https://developer.allegro.pl/)**.
 
-# News in Allegro API
+## News in Allegro API
 
 If you want to be up to date with new features in our public API:
 
