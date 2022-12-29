@@ -13,18 +13,20 @@ Występuje problem: <!-- wpisz X między kwadratowe nawiasy -->
  - [ ] inny / other
 
 :beetle: **Opis / Description**
+
 <!-- English version below -->
 
-<!-- [Zapoznaj się z zasadami korzystania z forum API Allegro na GitHubie](https://github.com/allegro/allegro-api/wiki#zasady-korzystania-z-forum-api-allegro-na-githubie) -->
-<!-- Jeśli zgłaszasz problem z zasobami REST API:
-podaj pełne cURL z responsem i requestem (możesz je nam także przekazać przez [formularz kontaktowy](https://allegro.pl/pomoc/kontakt) - w zgłoszeniu podaj numer wątku na GitHubie) -->
-<!-- Podaj trace-id -->
-<!-- Dokładnie opisz problem -->
+<!-- [Zapoznaj się z zasadami korzystania z forum API Allegro na GitHubie](https://github.com/allegro/allegro-api/wiki#zasady-korzystania-z-forum-api-allegro-na-githubie)
 
-<!-- English version -->
+Jeśli zgłaszasz problem z zasobami REST API:
+ - podaj pełne cURL z responsem i requestem (możesz je nam także przekazać przez [formularz kontaktowy](https://allegro.pl/pomoc/kontakt) - w zgłoszeniu podaj numer wątku na GitHubie)
+- podaj trace-id
+- dokładnie opisz problem -->
 
-<!-- [Read the rules for using the Allegro API forum on GitHub](https://github.com/allegro/allegro-api/wiki#rules-for-using-the-allegro-api-forum-on-github) -->
-<!-- If you report a problem with REST API resources:
-provide the full cURL with the response and request (you can also submit them to us via [contact form](https://allegro.pl/pomoc/kontakt) - enter the thread number on GitHub in the application) -->
-<!-- Enter trace-id -->
-<!-- Describe the problem exactly  -->
+<!-- EN 
+[Read the rules for using the Allegro API forum on GitHub](https://github.com/allegro/allegro-api/wiki#rules-for-using-the-allegro-api-forum-on-github)
+
+If you report a problem with REST API resources:
+- provide the full cURL with the response and request (you can also submit them to us via [contact form](https://allegro.pl/pomoc/kontakt) - enter the thread number on GitHub in the application),
+- enter trace-id,
+- describe the problem exactly  -->
