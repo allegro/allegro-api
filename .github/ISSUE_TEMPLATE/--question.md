@@ -8,6 +8,7 @@ about: Zadaj pytanie dotyczące REST API Allegro / Ask about REST API Allegro
 
 <!-- Zanim zadasz pytanie, zapoznaj się z naszymi materiałami:
 
+[Zapoznaj się z zasadami korzystania z forum API Allegro na GitHubie](https://github.com/allegro/allegro-api/wiki#zasady-korzystania-z-forum-api-allegro-na-githubie)
 [REST API](https://developer.allegro.pl/)
 [Uwierzytelnianie i autoryzacja](https://developer.allegro.pl/auth/)
 [Jak wystawić ofertę](https://developer.allegro.pl/sale/)
@@ -20,6 +21,7 @@ about: Zadaj pytanie dotyczące REST API Allegro / Ask about REST API Allegro
 <!-- EN 
 Before asking a question, see our materials:
 
+[Read the rules for using the Allegro API forum on GitHub](https://github.com/allegro/allegro-api/wiki#rules-for-using-the-allegro-api-forum-on-github)
 [Authentication and authorization](https://developer.allegro.pl/en/auth/)
 [How to list an offer](https://developer.allegro.pl/en/sale/)
 [How to manage offers](https://developer.allegro.pl/en/my_offers/)
