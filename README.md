@@ -97,6 +97,13 @@ If you want to be up to date with new features in our public API:
 * you can also subscribe to our newsletter on the **[News](https://developer.allegro.pl/news)** page,
 * we also inform about news in API in the **[Issues](https://github.com/allegro/allegro-api/issues)** tab on GitHub - threads are labeled with the [NEWS] tag.
 
+## API Allegro Status Page
+
+We provide the [Status Page of Allegro's public API](https://api.allegrostatus.pl/). This tool will give you clear updates on incidents and any upcoming maintenance work.
+
+The [Status Page](https://api.allegrostatus.pl/) is divided by functionality groups, in line with Allegro public API documentation.
+
+
 ## Rules for using the Allegro API forum on GitHub
 
 1. As the Allegro API public support team, we oversee and moderate content posted on the Allegro API forum on GitHub. We reserve the right to edit, remove (in whole or in part), without notice, content published on the forum in case it conflicts with applicable laws and forum rules.
