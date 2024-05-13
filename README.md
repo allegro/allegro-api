@@ -29,6 +29,13 @@ Jeżeli chcesz być na bieżąco z nowościami w ramach naszego publicznego API:
 * do naszego newslettera możesz zapisać się również na stronie **[Aktualności](https://developer.allegro.pl/news)**,
 * o nowościach informujemy także na GitHubie w zakładce **[Issues](https://github.com/allegro/allegro-api/issues)** - wątki tagujemy znacznikiem [NEWS].
 
+## API Allegro Status Page
+
+Udostępniamy [Status Page publicznego API Allegro](https://api.allegrostatus.pl/). Dzięki temu narzędziu otrzymasz przejrzyste aktualizacje dotyczące incydentów i wszelkich nadchodzących prac serwisowych.
+
+[Status Page](https://api.allegrostatus.pl/) podzielony jest wg grup funkcjonalności, zgodnie z dokumentacją publicznego API Allegro.
+
+
 ## Zasady korzystania z forum API Allegro na GitHubie
 
 1. Jako zespół wsparcia publicznego API Allegro nadzorujemy i moderujemy treści umieszczane na forum API Allegro na GitHubie. Zastrzegamy sobie prawo do edytowania, usuwania (w całości lub w części), bez uprzedzenia, opublikowanych na forum treści w przypadku ich sprzeczności z obowiązującymi przepisami prawa oraz zasadami forum.
